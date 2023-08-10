@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **merle.v.steffen@gmail.com**
 
-- 🌆 I live in 🇩🇪 *Germany*, and have lived in 🇦🇺 *Australia*, 🇳🇱 *The Netherlands*, <br>
-  🇯🇵 *Japan*, 🇪🇸 *Spain*
+- 🌆 I live in 🇩🇪 *Germany*, and have lived in 🇦🇺 *Australia*, 🇳🇱 *The Netherlands*, 🇯🇵 *Japan*, 🇪🇸 *Spain*
 
 - ⚡ Fun fact: **I am always nice to Alexa since AI kind of scares me and I want to be on their good side** 😂
 
