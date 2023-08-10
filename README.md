@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **merle.v.steffen@gmail.com**
 
-- ⚡ Fun fact: **I lived 6 Months in Tokyo, Japan, and I am still in love with it**
+- 🌆 I live in 🇩🇪 *Germany*, and have lived in 🇦🇺 *Australia*, 🇳🇱 *The Netherlands*, 🇯🇵 *Japan*, 🇪🇸 *Spain*
+
+- ⚡ Fun fact: **I am always nice to Alexa since AI kind of scares me and I want to be on their good side** 😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
