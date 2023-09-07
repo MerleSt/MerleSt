@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk3NW92bHA0cHdlNm9kbmNpcTA1ZXJudHR2am5waWJia3B2MDlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif">
 
 
-- 👩‍🎓 I have **Masters Degree in Economics** 
+- 👩‍🎓 I have a **Masters Degree in Economics** 
 
-- 🌱 I’m currently learning **Python, SQL, Tableau**
+- 🌱 I’m currently learning **Python, SQL, Tableau, AWS**
 
 - 💬 Ask me about **Economics and Statistics, and I'll be happy**
 
