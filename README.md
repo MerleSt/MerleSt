@@ -27,7 +27,7 @@ Right now I'm deepening my MLOps skills, because a model that only lives on my l
 
 - 🔭 Currently exploring **MLOps, Docker, Kubernetes, and OpenShift**
 - 🌱 Learning how to take models from notebook → production
-- ☁️ AWS Practitioner certified · getting started with Azure
+- ☁️ Certified in **AWS Cloud Practitioner** and **Azure Fundamentals (AZ-900)**
 - 💬 Happy to chat about **ML, NLP, MLOps, or anything data-meets-the-real-world**
 
 <br clear="right" />
