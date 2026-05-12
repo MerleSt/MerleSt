@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" width="100%" role="img" aria-label="I told you so — signed, the data">
+  <title>I told you so — signed, the data</title>
+
+  <!-- background -->
+  <rect x="0" y="0" width="680" height="200" fill="#faf8f3"/>
+
+  <!-- main quote -->
+  <text x="340" y="95" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-style="italic" fill="#1a1a1a" opacity="0">
+    "I told you so."
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.15;0.85;0.92;0.98;1" dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,8;0,0;0,0;0,0" keyTimes="0;0.15;0.85;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- signature line -->
+  <line x1="380" y1="130" x2="380" y2="130" stroke="#1a1a1a" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="x2" values="380;380;490;490;380" keyTimes="0;0.25;0.4;0.92;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x1" values="380;380;240;240;380" keyTimes="0;0.25;0.4;0.92;1" dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- signature text -->
+  <text x="340" y="158" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#555" opacity="0">
+    — signed, the data
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.5;0.9;0.97;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- little ink drop flourish -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.6;0.9;0.97;1" dur="6s" repeatCount="indefinite"/>
+    <circle cx="555" cy="152" r="3" fill="#c75a3c"/>
+    <circle cx="563" cy="156" r="2" fill="#c75a3c"/>
+    <circle cx="569" cy="153" r="1.5" fill="#c75a3c"/>
+  </g>
+</svg>
