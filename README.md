@@ -63,7 +63,7 @@ A small project with a big point: it's not enough to *train* a model — you hav
 
 ### Find me elsewhere
 
-🔗 LinkedIn *(coming soon)* &nbsp;·&nbsp; ✉️ Email *(coming soon)*
+🔗 [LinkedIn](https://www.linkedin.com/in/merle-steffen/) &nbsp;·&nbsp; ✉️ [Email](mailto:your.email@example.com)
 
 ---
 
