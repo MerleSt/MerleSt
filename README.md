@@ -41,7 +41,7 @@ Right now I'm deepening my MLOps skills, because a model that only lives on my l
 
 **ML & analysis** &nbsp; `Machine Learning` `Deep Learning` `Statistics` `Research methods`
 
-**Infrastructure** &nbsp; `Docker` `Kubernetes` `AWS` `Azure`
+**Infrastructure** &nbsp; `Docker` `Kubernetes` `FastAPI` `AWS` `Azure`
 
 **Currently going deeper** &nbsp; `MLOps` `OpenShift`
 
@@ -57,7 +57,7 @@ I went in suspecting that political discourse had grown more negative over the y
 
 #### 🌸 [Iris MLOps](https://github.com/MerleSteffen/iris-mlops)
 A small project with a big point: it's not enough to *train* a model — you have to be able to *deploy* it. I'm using the classic Iris dataset as a sandbox for the full MLOps lifecycle, so the focus stays on the deployment pipeline rather than the modeling.
-> Built with Python · Docker · Kubernetes
+> Built with Python · Docker · Kubernetes · FastAPI
 
 ---
 
