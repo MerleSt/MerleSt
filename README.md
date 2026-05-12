@@ -9,8 +9,11 @@
   5. Commit — it'll appear on your profile automatically ✨
 -->
 
+<div align="center">
+  <img src="assets/banner.svg" alt="I told you so — signed, the data" width="100%" />
+</div>
 <h1 align="center">Hi, I'm Merle 👋</h1>
-
+ 
 <p align="center">
   <em>Data Scientist @ Accenture · learning the path from model to production</em>
 </p>
