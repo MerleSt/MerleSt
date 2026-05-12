@@ -36,13 +36,13 @@ Right now I'm deepening my MLOps skills, because a model that only lives on my l
 
 ### Tech I work with
 
-**Languages & data** &nbsp;·&nbsp; Python &nbsp; SQL &nbsp; Tableau
+**Languages & data** &nbsp; `Python` `SQL` `Tableau`
 
-**ML & analysis** &nbsp;·&nbsp; Machine Learning &nbsp; Deep Learning &nbsp; Statistics &nbsp; Research methods
+**ML & analysis** &nbsp; `Machine Learning` `Deep Learning` `Statistics` `Research methods`
 
-**Infrastructure** &nbsp;·&nbsp; Docker &nbsp; Kubernetes &nbsp; AWS &nbsp; Azure
+**Infrastructure** &nbsp; `Docker` `Kubernetes` `AWS` `Azure`
 
-**Currently going deeper** &nbsp;·&nbsp; MLOps &nbsp; OpenShift
+**Currently going deeper** &nbsp; `MLOps` `OpenShift`
 
 ---
 
