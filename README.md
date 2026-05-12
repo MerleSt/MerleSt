@@ -22,8 +22,6 @@
 
 ### About me
 
-<img align="right" src="assets/profile.png" alt="Merle Steffen" width="170" style="border-radius: 50%;" />
-
 I'm a data scientist at Accenture with a background in economics and research. I like the part of this work where curiosity meets evidence — forming a hypothesis, then actually testing whether the data agrees.
 
 Right now I'm deepening my MLOps skills, because a model that only lives on my laptop isn't really doing much for anyone. I want the things I build to ship.
