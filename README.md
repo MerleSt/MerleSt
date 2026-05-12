@@ -1,39 +1,34 @@
 <!--
-  👋 Welcome to your profile README!
+  👋 Hi Merle! Here's how to use this file:
   
-  HOW TO USE THIS FILE:
-  1. Create a new repo with the EXACT same name as your GitHub username
-  2. Add this file as README.md to that repo
-  3. Replace the [BRACKETED] placeholders below with your info
-  4. Add your photo to an /assets folder (or use the URL method)
-  5. Commit and watch it appear on your profile! ✨
+  1. Create a new PUBLIC repo on GitHub with the EXACT name: MerleSteffen
+     (or whatever your GitHub username is — it must match exactly)
+  2. Add this file as README.md in that repo
+  3. Create an /assets folder and upload your profile photo as profile.png
+  4. Update the social links at the bottom when you're ready
+  5. Commit — it'll appear on your profile automatically ✨
 -->
 
-<div align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-</div>
-
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Merle 👋</h1>
 
 <p align="center">
-  <em>[A one-line description of who you are — e.g. "Software engineer building tools that make people's lives a little easier."]</em>
+  <em>Data Scientist @ Accenture · learning the path from model to production</em>
 </p>
 
 ---
 
 ### About me
 
-<img align="right" src="assets/profile.png" alt="My photo" width="180" style="border-radius: 50%;" />
+<img align="right" src="assets/profile.png" alt="Merle Steffen" width="170" style="border-radius: 50%;" />
 
-I'm a [your role / what you do] based in [your location]. I care about [the thing that genuinely matters to you — clean code, accessibility, teaching, beautiful design, whatever it actually is]. 
+I'm a data scientist at Accenture with a background in economics and research. I like the part of this work where curiosity meets evidence — forming a hypothesis, then actually testing whether the data agrees.
 
-When I'm not coding, you'll find me [hobby/interest #1], [hobby/interest #2], or trying (and sometimes failing) to [something honest and small].
+Right now I'm deepening my MLOps skills, because a model that only lives on my laptop isn't really doing much for anyone. I want the things I build to ship.
 
-I'm currently:
-- 🔭 Working on **[current project]**
-- 🌱 Learning **[thing you're learning]**
-- 💬 Happy to chat about **[topics you love]**
-- 📫 Reach me at **[your email or preferred contact]**
+- 🔭 Currently exploring **MLOps, Docker, Kubernetes, and OpenShift**
+- 🌱 Learning how to take models from notebook → production
+- ☁️ AWS Practitioner certified · getting started with Azure
+- 💬 Happy to chat about **ML, NLP, MLOps, or anything data-meets-the-real-world**
 
 <br clear="right" />
 
@@ -41,33 +36,33 @@ I'm currently:
 
 ### Tech I work with
 
-**Languages** &nbsp;·&nbsp; [Python] &nbsp; [JavaScript] &nbsp; [TypeScript] &nbsp; [add yours]
+**Languages & data** &nbsp;·&nbsp; Python &nbsp; SQL &nbsp; Tableau
 
-**Frameworks & tools** &nbsp;·&nbsp; [React] &nbsp; [Node.js] &nbsp; [add yours]
+**ML & analysis** &nbsp;·&nbsp; Machine Learning &nbsp; Deep Learning &nbsp; Statistics &nbsp; Research methods
 
-**Currently exploring** &nbsp;·&nbsp; [Rust, ML, whatever you're curious about]
+**Infrastructure** &nbsp;·&nbsp; Docker &nbsp; Kubernetes &nbsp; AWS &nbsp; Azure
+
+**Currently going deeper** &nbsp;·&nbsp; MLOps &nbsp; OpenShift
 
 ---
 
-### Projects I'm proud of
+### Projects
 
-#### 🌟 [Project Name One](https://github.com/yourusername/repo-one)
-A short sentence about what it does and why it exists. What problem does it solve, or what's interesting about how it works?
-> Built with [tech stack]
+#### 🗣 [Sentiment in Session](https://github.com/MerleSteffen/sentiment-in-session)
+An NLP analysis of the *Plenarprotokolle* — speeches from the German Bundestag — tracing how sentiment has shifted over time, across parties, and between individual speakers.
 
-#### 🛠 [Project Name Two](https://github.com/yourusername/repo-two)
-Another short, honest description. Skip the marketing speak — just say what it is.
-> Built with [tech stack]
+I went in suspecting that political discourse had grown more negative over the years. The data agreed: sentiment trends downward over time, and the breakdown by party and speaker tells a more nuanced story underneath that headline.
+> Built with Python · NLP libraries · Bundestag open data
 
-#### ✨ [Project Name Three](https://github.com/yourusername/repo-three)
-And one more. Three is a nice number; resist the urge to list everything.
-> Built with [tech stack]
+#### 🌸 [Iris MLOps](https://github.com/MerleSteffen/iris-mlops)
+A small project with a big point: it's not enough to *train* a model — you have to be able to *deploy* it. I'm using the classic Iris dataset as a sandbox for the full MLOps lifecycle, so the focus stays on the deployment pipeline rather than the modeling.
+> Built with Python · Docker · Kubernetes
 
 ---
 
 ### Find me elsewhere
 
-[🌐 Website](https://yoursite.com) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/you) &nbsp;·&nbsp; [✍️ Blog](https://yourblog.com) &nbsp;·&nbsp; [🐘 Mastodon](https://mastodon.social/@you)
+🔗 LinkedIn *(coming soon)* &nbsp;·&nbsp; ✉️ Email *(coming soon)*
 
 ---
 
